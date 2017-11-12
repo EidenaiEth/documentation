@@ -60,7 +60,7 @@ new :sup:`providers` . FallbackProvider( providers )
     // Connect to Ropsten (the test network)
     var testnet = true;
 
-    // Connect to INFUA
+    // Connect to INFURA
     var infuraProvider = new providers.InfuraProvider(testnet);
 
     // Connect to Etherscan
